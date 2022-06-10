@@ -1,7 +1,7 @@
 # sitemap
 Sitemap creater from main site link. Visits all found links and adds them to the sitemap.
 
-Возможен как интерактивный запуск, так и через консоль. В консоли необходимо аргументом программы указать ссылку в формате http://*/ или https://*/.
+Возможен как интерактивный запуск, так и через консоль. В консоли необходимо аргументом программы указать ссылку в формате http://your_link/ или https://your_link/
 
 Результаты занесены в таблицу ниже:
 ![image](https://user-images.githubusercontent.com/26380064/173118612-a630c04b-661c-4bb5-8f60-4a62cc9a23cd.png)
